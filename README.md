@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CHADIREOROONU&fontSize=35&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CHADIREOROONU&fontSize=40&animation=fadeIn)
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
-Language
+## 💻 Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -13,7 +13,7 @@ Language
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-Frontend
+## 🎨 Frontend
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -23,18 +23,18 @@ Frontend
 
 
 
-Backend
+## 🛠 Backend
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
-DB
+## 🗄 Database
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-Collaboration
+## 🚀 Teamwork
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -43,18 +43,49 @@ Collaboration
 
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chadireoroonu&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/chadireoroonu"
-  width="600"
-  height="300"
-/>
-</a>
-
+## 📊 GitHub Stats
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadireoroonu&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadireoroonu&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadireoroonu&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadireoroonu&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadireoroonu&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadireoroonu&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chadireoroonu&theme=onedark&hide_border=true)](https://git.io/streak-stats) -->
+
+
+<!-- Github State -->
+<table style="width: 100%; border-spacing: 0; border-collapse: collapse; margin-left: -2px">
+<tr>
+  <td width="53%" style="vertical-align: top; padding: 1px;">
+    <div style="display: flex; flex-direction: column; gap: 3px; height: 100%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=chadireoroonu&theme=onedark&hide_border=true&width=100%" style="width: 100%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=chadireoroonu&theme=onedark&hide_border=true&width=100%" style="width: 100%;">
+    </div>
+  </td>
+
+  <td width="47%" style="vertical-align: top; padding: 0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadireoroonu&theme=onedark&hide_border=true&width=100%" style="width: 100%; margin-left: 2px">
+  </td>
+</tr>
+</table>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chadireoroonu&theme=onedark&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<!-- ![chadireoroonu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chadireoroonu&theme=react-dark) -->
+
+
+## 🐾 Gitanimals
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chadireoroonu&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/chadireoroonu"
+  width="100%"
+  height="auto"
+/>
+</a>
+
+
+## 🏆 Algorithm Stats
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chadireoroonu)](https://solved.ac/chadireoroonu)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chadireoroonu&theme=cold)
