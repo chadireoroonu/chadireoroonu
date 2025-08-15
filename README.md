@@ -55,7 +55,7 @@
 
 
 <!-- Github State -->
-<table style="width: 100%; border-spacing: 0; border-collapse: collapse; margin-left: -2px">
+<!-- <table style="width: 100%; border-spacing: 0; border-collapse: collapse; margin-left: -2px">
 <tr>
   <td width="53%" style="vertical-align: top; padding: 1px;">
     <div style="display: flex; flex-direction: column; gap: 3px; height: 100%;">
@@ -68,9 +68,20 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadireoroonu&theme=onedark&hide_border=true&width=100%" style="width: 100%; margin-left: 2px">
   </td>
 </tr>
-</table>
+</table> -->
+<div style="display: flex; flex-wrap: wrap; width: 100%;">
+  <div style="flex: 0 0 53%; display: flex; flex-direction: column; gap: 5px; padding-right: 5px; box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api?username=chadireoroonu&theme=onedark&hide_border=true&width=100%" style="width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chadireoroonu&theme=onedark&hide_border=true&width=100%" style="width: 100%;">
+  </div>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chadireoroonu&theme=onedark&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+  <div style="flex: 0 0 46.5%; box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadireoroonu&theme=onedark&hide_border=true&width=100%" style="width: 100%;">
+  </div>
+</div>
+
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chadireoroonu&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!-- ![chadireoroonu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chadireoroonu&theme=react-dark) -->
@@ -87,5 +98,16 @@
 
 
 ## 🏆 Algorithm Stats
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chadireoroonu)](https://solved.ac/chadireoroonu)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=chadireoroonu&theme=cold)
+<div style="display: flex; flex-direction: row; gap: 8px; justify-content: space-between;">
+  <a href="https://solved.ac/chadireoroonu" target="_blank" style="flex: 1;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chadireoroonu" style="width: 100%;">
+  </a>
+  <div style="flex: 1;">
+    <img src="http://mazandi.herokuapp.com/api?handle=chadireoroonu&theme=cold" style="width: 100%;">
+  </div>
+</div>
+
+
+
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chadireoroonu)](https://solved.ac/chadireoroonu)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=chadireoroonu&theme=cold) -->
