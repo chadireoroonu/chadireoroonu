@@ -55,7 +55,7 @@
 
 
 <!-- Github State -->
-<table style="width: 100%; border-spacing: 0; border-collapse: collapse; margin-left: -2px">
+<table style="width: 100%; border-spacing: 0; border-collapse: collapse; margin-left: -2px; border: 0; cellspacing: 0; cellpadding: 0;">
 <tr>
   <td width="53%" style="vertical-align: top; padding: 1px;">
     <div style="display: flex; flex-direction: column; gap: 3px; height: 100%;">
