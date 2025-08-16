@@ -112,8 +112,7 @@
 </div>
 <table style="width: 100%;"> -->
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chadireoroonu" width="50%">
-  <img src="http://mazandi.herokuapp.com/api?handle=chadireoroonu&theme=cold" width="50%">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chadireoroonu" width="50%"><img src="http://mazandi.herokuapp.com/api?handle=chadireoroonu&theme=cold" width="50%">
 </p>
 
 
