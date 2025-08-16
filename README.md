@@ -55,7 +55,8 @@
 
 
 <!-- Github State -->
-<table style="width: 100%; border-spacing: 0; border-collapse: collapse; margin-left: -2px; border: 0; cellspacing: 0; cellpadding: 0;">
+<!-- <table style="width: 100%; border-spacing: 0; border-collapse: collapse; margin-left: -2px; border: 0; cellspacing: 0; cellpadding: 0;"> -->
+<table style="width: 100%;">
 <tr>
   <td width="53%" style="vertical-align: top; padding: 1px;">
     <div style="display: flex; flex-direction: column; gap: 3px; height: 100%;">
@@ -69,6 +70,8 @@
   </td>
 </tr>
 </table>
+
+
 <!-- <div style="display: flex; flex-wrap: wrap; width: 100%;">
   <div style="flex: 0 0 53%; display: flex; flex-direction: column; gap: 5px; padding-right: 5px; box-sizing: border-box;">
     <img src="https://github-readme-stats.vercel.app/api?username=chadireoroonu&theme=onedark&hide_border=true&width=100%" style="width: 100%;">
@@ -99,7 +102,7 @@
 
 
 ## 🏆 Algorithm Stats
-<div style="display: flex; flex-direction: row; gap: 8px; justify-content: space-between;">
+<!-- <div style="display: flex; flex-direction: row; gap: 8px; justify-content: space-between;">
   <a href="https://solved.ac/chadireoroonu" target="_blank" style="flex: 1;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chadireoroonu" style="width: 100%;">
   </a>
@@ -107,6 +110,12 @@
     <img src="http://mazandi.herokuapp.com/api?handle=chadireoroonu&theme=cold" style="width: 100%;">
   </div>
 </div>
+<table style="width: 100%;"> -->
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chadireoroonu" width="50%">
+  <img src="http://mazandi.herokuapp.com/api?handle=chadireoroonu&theme=cold" width="50%">
+</p>
+
 
 
 
